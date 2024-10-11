@@ -1,0 +1,6 @@
+MCQ,choices,Correct
+What was the early focus of some researchers in AI as an academic discipline?,a:Having machines learn from data|b:Creating expert systems|c:Developing neural networks|d:Using symbolic methods,a
+What caused a rift between AI and machine learning?,"a:Probabilistic reasoning|b:Logical, knowledge-based approach|c:Symbolic methods|d:Generalized linear models",b
+Which research line was continued outside the AI/CS field as 'connectionism'?,a:Expert systems|b:Inductive logic programming|c:Neural networks|d:Symbolic methods,c
+"What dominated AI by 1980, pushing statistics out of favor?",a:Inductive logic programming|b:Neural networks|c:Expert systems|d:Pattern recognition,c
+Which method was plagued by theoretical and practical problems of data acquisition and representation?,a:Probabilistic reasoning|b:Symbolic methods|c:Neural networks|d:Generalized linear models,a
